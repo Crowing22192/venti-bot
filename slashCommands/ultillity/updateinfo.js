@@ -12,7 +12,7 @@ module.exports = {
             .setDescription('<a:go_Moon:940894681120788511> __**VER:**__ `v1.7.2` <a:go_HeartGreen:940894169893834763>')
             .setColor('AQUA')
             .setTimestamp()
-            .setImage(`https://im3.ezgif.com/tmp/ezgif-3-2a75fa7a1c.gif`)
+            .setImage(`https://cdn.discordapp.com/attachments/985096083904548906/990897119030288404/ezgif.com-gif-maker.gif`)
             .setThumbnail(`https://cdn.discordapp.com/attachments/856116847279996938/984751955916226570/unknown.png`)
             .setFooter({
                 text: 'Made by @Crowing#6292',
