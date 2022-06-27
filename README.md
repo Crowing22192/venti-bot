@@ -2,9 +2,10 @@
 My most hard-working project, work on discord.js v13.8 or uper
 
 # Rules:
-- You are not allow to fork
+- You are allow to fork
+- Use it as a template
+- MUST credit me inside
 - No claim it as yours
-- Not allow to edit
 - .. or else I'll take down the code ..
 
 ![image](https://cdn.discordapp.com/attachments/900923009446084641/990805815701164032/unknown.png)
