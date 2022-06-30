@@ -6,7 +6,7 @@ module.exports = {
     type: 'CHAT_INPUT',
     options: [],
 
-    run: async (interaction) => {
+    run: async (client, interaction) => {
         const n = Math.floor(Math.random() * 2);
         let result;
         if (n === 1) result = 'ngửa';
@@ -15,6 +15,8 @@ module.exports = {
         const cf = new MessageEmbed()
             .setColor("AQUA")
             .setDescription(`**🪙 Đồng xu mặt ${result}**!`)
-            interaction.reply({embeds: [cf]});
+            .setTitle(`${interaction.user.username} tung đồng xu`);
+
+        interaction.reply({ embeds: [cf] })
     }
-};
+}

@@ -10,5 +10,5 @@ module.exports = (client) => {
         client.on(eventName, event.bind(null, client));
         count++;
     }
-    console.log(`Venti: ${count} loaded`);
+    console.log(`Venti: Đã load ${count}`);
 }

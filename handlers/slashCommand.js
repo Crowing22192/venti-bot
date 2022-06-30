@@ -1,5 +1,6 @@
 const { readdirSync } = require('fs');
 const slashCommands = [];
+//const guildID = "954143786114646016";
 
 module.exports = (client) => {
     let count = 0;
@@ -22,5 +23,5 @@ module.exports = (client) => {
         await client.application.commands.set(slashCommands);
     });
 
-    console.log(`Venti: Loaded ${count} slash commands`);
+    console.log(`Venti: Đã load ${count} lệnh slash`);
 }

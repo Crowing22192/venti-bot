@@ -9,16 +9,19 @@ module.exports = {
 
         const embed = new MessageEmbed()
             .setTitle(`<a:go_VentiHeadpat:986982966230138900> Venti - Update Info <:go_Ventisleep:985071960897761300>`)
-            .setDescription('<a:go_Moon:940894681120788511> __**VER:**__ `v1.7.2` <a:go_HeartGreen:940894169893834763>')
+            .setDescription('<a:go_Moon:940894681120788511> __**VER:**__ `v2.0` <a:go_HeartGreen:940894169893834763>')
             .setColor('AQUA')
             .setTimestamp()
             .setImage(`https://cdn.discordapp.com/attachments/985096083904548906/990897119030288404/ezgif.com-gif-maker.gif`)
-            .setThumbnail(`https://cdn.discordapp.com/attachments/856116847279996938/984751955916226570/unknown.png`)
+            .setThumbnail(client.user.displayAvatarURL({ format: 'png', dynamic: true }))
             .setFooter({
                 text: 'Made by @Crowing#6292',
                 iconURL: `https://cdn.discordapp.com/attachments/856116847279996938/983671427846799410/unknown.png`})          
-            .addField('<a:go_Arrow:901447773252100097> __**Nội dung cập nhật:**__', '・ Update lệnh `quemua`')
+            .addField('<a:go_Arrow:901447773252100097> __**Nội dung cập nhật:**__', '・ 4 New cmd: `svinfo`, `whois`, `lock`, `unlock`\n・ Cải tiến một số "Fun" cmd\n・ Tất cả command bây giờ đã hoạt động được trên nhiều sv khác (chưa sẵn sàng release invite link)')
+            .addField('<a:go_KannaFire:901445882606665740> **__Special Thanks:__**','・ C4TN for 3 cmd `whois`, `lock`, `unlock`')
             .addField('<a:go_TV:986983894471557200> __**Development:**__ `In Progress`', '<a:go_Clock:901448078798757898> __**Lần cuối cập nhật:**__ <t:1656225626>')
+
+
             interaction.reply({embeds: [embed]})
         
     },

@@ -1,6 +1,6 @@
 module.exports = (client) => {
-    console.log('Venti: Cmon\' let\'s go wind-gliding, shall we?');
-    //client.user.setPresence({ activities: [{ name: 'Nướng Paimon'}], status: 'online', type: 'WATCHING'} );
+    console.log('Venti: Cmon\', let\' go wind-gliding, shall we?');
+    //client.user.setPresence({ activities: [{ name: 'TEST'}], status: 'online'} );
 
     const arrayOfStatus = [
         `Nướng Paimon`,
@@ -14,6 +14,4 @@ module.exports = (client) => {
         client.user.setPresence({ activities: [{ name: arrayOfStatus[index]}], status: 'online', type: 'WATCHING'} );
         index++;
 }, 5000)
-
 }
-
