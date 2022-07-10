@@ -22,7 +22,7 @@ module.exports = {
             .setTitle(`<a:go_Moon:940894681120788511> Avatar của ${user.tag}`)
             .addField('PNG', `[Link](${user.displayAvatarURL({ size: 4096, dynamic: true, format: "png" })})`, true)
             .addField('JPG', `[Link](${user.displayAvatarURL({ size: 4096, dynamic: true, format: "jpg" })})`, true)
-            .addField('WEBP', `[Link](${user.displayAvatarURL({ size: 4096, dynamic: true, format: "webp" })})`, true);
+            .addField('GIF', `[Link](${user.displayAvatarURL({ size: 4096, dynamic: true, format: "gif" })})`, true);
         interaction.reply({ embeds: [embed] });
     },
 };

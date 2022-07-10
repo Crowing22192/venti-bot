@@ -3,7 +3,6 @@ const moment = require("moment")
 
 module.exports = {
   name: "whois",
-  ownerOnly: true,
   description: "Hiển thị info của người này",
   options: [
     {

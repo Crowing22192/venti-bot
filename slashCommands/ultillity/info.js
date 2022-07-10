@@ -9,7 +9,7 @@ module.exports = {
 
         const info = new MessageEmbed()
             .setTitle(`<a:go_VentiHeadpat:986982966230138900> Venti - Info <:go_Ventisleep:985071960897761300>`)
-            .setDescription('<a:go_Moon:940894681120788511> __**VER:**__ `v2.0` <a:go_HeartGreen:940894169893834763>')
+            .setDescription('<a:go_Moon:940894681120788511> __**VER:**__ `v2.1` <a:go_HeartGreen:940894169893834763>')
             .setColor('AQUA')
             .setTimestamp()
             .setImage(`https://cdn.discordapp.com/attachments/985096083904548906/990897119030288404/ezgif.com-gif-maker.gif`)
