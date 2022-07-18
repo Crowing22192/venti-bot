@@ -1,7 +1,7 @@
 # EN
 --------------------------------------------------------------------
 # Venti#8510
-My most hard-working project, work on discord.js v13.8 or uper
+My most hard-working project, work on discord.js v13.8 (or recommend version) or uper
 - [Portfilo](https://v3ntibot.carrd.co)
 
 # Rules:
@@ -17,7 +17,7 @@ My most hard-working project, work on discord.js v13.8 or uper
 # VI
 --------------------------------------------------------------------
 # Venti#8510
-Dự án đầu tư nhất của tôi, hoạt động ở dạng discord.js v13 trở lên
+Dự án đầu tư nhất của tôi, hoạt động ở discord.js v13 - node v16 (hoặc recommend version) trở lên
 - [Portfilo](https://v3ntibot.carrd.co)
 
 # Rules:
