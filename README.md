@@ -14,7 +14,8 @@ My most hard-working project, work on discord.js v13.8 or uper
 # Notes:
 - From now, due the commit take way long so pre-release no longer been updated, means github scr code going to update later than stable bot.
 
-#VI
+# VI
+--------------------------------------------------------------------
 # Venti#8510
 Dự án đầu tư nhất của tôi, hoạt động ở dạng discord.js v13 trở lên
 - [Portfilo](https://v3ntibot.carrd.co)
