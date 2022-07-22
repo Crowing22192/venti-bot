@@ -72,8 +72,8 @@ Dự án đầu tư nhất của tôi, hoạt động ở discord.js v13 - node 
 ![guide 2](https://cdn.discordapp.com/attachments/999933197938864190/999984929922359347/unknown.png)
 
 # License
-EN: This project licesned by [Apache v2.0](https://github.com/Crowing22192/venti-bot/blob/main/BOT%20LICENSE)
-VI: Dự án này cấp phép bởi [Apache v2.0](https://github.com/Crowing22192/venti-bot/blob/main/BOT%20LICENSE)
+- EN: This project licesned by [Apache v2.0](https://github.com/Crowing22192/venti-bot/blob/main/BOT%20LICENSE)
+- VI: Dự án này cấp phép bởi [Apache v2.0](https://github.com/Crowing22192/venti-bot/blob/main/BOT%20LICENSE)
 
 ![image](https://cdn.discordapp.com/attachments/900923009446084641/990805815701164032/unknown.png)
 
