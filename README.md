@@ -24,12 +24,15 @@ This guide work on VS Code and the other is NOT 100% WORKING
 - Type "TOKEN=" in .env file and fill it with your BOT TOKEN
 - Type "MONGODB=" in .env file also and fill it with your mongodb link
 - In the 'config.json', paste your ID to become the bot's Owner
+
 ![guide 1](https://cdn.discordapp.com/attachments/999933197938864190/999978268348383242/unknown.png)
+
 ![guide 1.1](https://cdn.discordapp.com/attachments/999933197938864190/999982829398134794/unknown.png)
 
 2: Make your bot online
 - Type 'npm i' in your terminal to install all the package due sometimes it may outdated and to get the node_modules in order to get the bot work well
 - Type 'node .' (or node index.js) to run the bot
+
 ![guide 2](https://cdn.discordapp.com/attachments/999933197938864190/999984929922359347/unknown.png)
 
 
@@ -57,12 +60,15 @@ Dự án đầu tư nhất của tôi, hoạt động ở discord.js v13 - node 
 - Nhập "TOKEN=" và điền TOKEN của bot vào
 - Nhập "MONGODB=" và điền link MongoDB của bot vào
 - Trong file "config.json" sửa ID hiện tại thành ID của bạn để nắm quyền của bot
+
 ![guide 1](https://cdn.discordapp.com/attachments/999933197938864190/999978268348383242/unknown.png)
+
 ![guide 1.1](https://cdn.discordapp.com/attachments/999933197938864190/999982829398134794/unknown.png)
 
 2: Chạy bot Online
 - Nhập 'npm i' trong Terminal để tải các package lại đề phòng nó bị cũ và nó giúp bạn lấy thư mục node_modules để chạy bot
 - Nhập 'node .' (hoặc node index.js) để chạy bot
+
 ![guide 2](https://cdn.discordapp.com/attachments/999933197938864190/999984929922359347/unknown.png)
 
 ![image](https://cdn.discordapp.com/attachments/900923009446084641/990805815701164032/unknown.png)
