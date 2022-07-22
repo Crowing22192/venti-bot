@@ -54,6 +54,8 @@ Dự án đầu tư nhất của tôi, hoạt động ở discord.js v13 - node 
 - Bot này chạy 100% slash command
 
 # Hướng dẫn
+Lưu ý: Hướng dẫn này chỉ hoạt động với VS Code và các phần mềm khác sẽ KHÔNG HOÀN TOÀN ĐÚNG
+
 1: Tải file và bắt đầu
 - Tải thư mục của bot về
 - Tạo 1 file bằng VS Code với tên ".env" (hoặc các phần mềm coding khác)
