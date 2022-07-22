@@ -23,7 +23,7 @@ This guide work on VS Code and the other is NOT 100% WORKING
 - Create a file called ".env" in VS Code (or other programming tool)
 - Type "TOKEN=" in .env file and copy paste your BOT TOKEN
 - Type "MONGODB=" in .env file also and fill it with your mongodb link
-![guide 1](https://cdn.discordapp.com/attachments/999933197938864190/999978268348383242/unknown.png)
+![guide 1](https://cdn.discordapp.com/attachments/999933197938864190/999978268348383242/unknown.png)\n
 2: Make your bot online
 - Type 'npm i' in your terminal to install all the package due sometimes it may outdated
 - Type 'node .' (or node index.js) to run the bot
